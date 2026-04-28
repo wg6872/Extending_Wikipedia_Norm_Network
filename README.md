@@ -2,7 +2,7 @@
 
 Authors: William Guan and Mateo Yepes
 
-This project was made for ORF387 (Networks), taught by Professor Rebrova (S26).
+This project was made for ORF387 (Networks), taught by Professor Rebrova (S26). Each notebook requires the data files under ```heaberlin_dedeo_norm_network``` and represents a self-contained section in the final report.
 
 # References
 ```
