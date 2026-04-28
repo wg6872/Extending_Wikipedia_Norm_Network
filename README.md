@@ -1,5 +1,9 @@
 # Partitions and Simulated Random Walks in the Dynamic Evolution of Wikipedia's Editorial Norms
 
+Authors: William Guan and Mateo Yepes
+
+This project was made for ORF387 (Networks), taught by Professor Rebrova.
+
 # References
 ```
 @article{Heaberlin_2016,
