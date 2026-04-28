@@ -2,7 +2,7 @@
 
 Authors: William Guan and Mateo Yepes
 
-This project was made for ORF387 (Networks), taught by Professor Rebrova.
+This project was made for ORF387 (Networks), taught by Professor Rebrova (S26).
 
 # References
 ```
